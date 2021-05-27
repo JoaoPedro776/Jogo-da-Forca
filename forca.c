@@ -3,7 +3,7 @@
 #include <string.h >
 
 //Criação de constante (temporario)
-#define WORD "batman"
+#define WORD "homem de ferro 2"
 
 //Protótipos das funções
 void criarCampos(char[], int);

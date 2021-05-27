@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h >
 
-//Criação de constante (temporario)
+//Criação de constante
 #define WORD "homem de ferro 2"
 
 //Protótipos das funções
